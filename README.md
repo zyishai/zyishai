@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/97a025f9-abc6-4dbf-acf4-f9107ba2960c" alt="My avatar" width="240" /></p>
 
 <h1 align="center">Hi 👋, I'm Yishai Zehavi</h1>
-<p align="center"><strong>I'm a Full-Stack Web Developer, Board Games Enthusiast, and Puzzle Solver.</strong>
+<p align="center"><strong>Full-Stack Web Developer, Board Games Enthusiast, and a Puzzle Solver</strong></p>
 
 ![](https://komarev.com/ghpvc/?username=zyishai&style=for-the-badge&abbreviated=true)  
 
