@@ -10,7 +10,7 @@
 
 - :man_technologist: I'm currently working on building a web game called ["Sea Merchant"](https://sea-merchant.vercel.app).
 
-- :seedling: I'm currently learning [XState](https://stately.ai/docs/xstate) and [Kubernetes](https://kubernetes.io).
+- :seedling: I'm currently learning [XState](https://stately.ai/docs/xstate) and [Ruby on Rails](https://rubyonrails.org).
 
 <!-- - :zap: Fun fact about me: -->
 
