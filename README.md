@@ -8,7 +8,7 @@
 
 - :desktop_computer: My portfolio is available at [https://yishaizehavi.com/](https://yishaizehavi.com/).
 
-- :man_technologist: I'm currently working on building a web game called ["Sea Merchant"](https://sea-merchant.vercel.app).
+- :man_technologist: I'm currently working on building a web game called ["Sea Trader"](https://github.com/zyishai/sea-trader).
 
 - :seedling: I'm currently learning [XState](https://stately.ai/docs/xstate) and [Ruby on Rails](https://rubyonrails.org).
 
