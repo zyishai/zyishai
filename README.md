@@ -12,6 +12,8 @@
 
 - :seedling: I'm currently learning [XState](https://stately.ai/docs/xstate) and [Ruby on Rails](https://rubyonrails.org).
 
+- :zap: Fun fact: I'm most creative either in the shower or slouching on the couch 🫢
+
 <!-- - :zap: Fun fact about me: -->
 
 
